@@ -3,7 +3,7 @@
  * main - this is the main function
  * Return: 0
  */
-in main(void)
+int main(void)
 {
 	puts("\"programing is like buillding a multilingual puzzle");
 	return (0);
